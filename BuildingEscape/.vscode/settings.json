@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/Unreal Engine/Projects/Building_Escape/.vscode": true,
+		"D:/Unreal Engine/Projects/Building_Escape/Content": true,
+		"D:/Unreal Engine/Projects/Building_Escape/Intermediate": true
+	}
+}
